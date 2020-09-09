@@ -1,5 +1,5 @@
-This is a inventory management system of restaurant which gives us the data analytics of the items people has bought all day and it can help the restaurant owner in managing and growing his business.
-He will know which food item has people buy and loved the most in the whole day . It also gives the total control over the inventory . He can add , edit and delete items.
+This is an inventory management system of restaurant which gives us complete data analytics of the items people has bought and it can help the restaurant owner in managing and growing his business.
+He will know which food items people has buy and loved the most in the whole day . It also gives the total control over the inventory . Food items can be added , deleted and updated.
 
 Team members:
 Gunpreet Singh
